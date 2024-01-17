@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(153, 226, 35);
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.control-flow {
+    padding: 40px;
+    border: 20px;
+   display: block;
+   width: 100%;
+    
+    
+}
+
+a {
+    background-color:rgb(136, 132, 132);
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 16pt;
+    color: rgb(15, 13, 13);
+    /* width: 100%; */
+}
